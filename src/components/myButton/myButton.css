@@ -3,6 +3,6 @@
     /* border-radius: 5px; */
     background-color: rgb(102, 0, 255);
 }
-.myButton :hover {
-    background-color: rgb(199, 202, 225);
+.myButton:hover {
+    background-color: rgba(0, 15, 127, 0.567);
 }

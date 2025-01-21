@@ -45,6 +45,7 @@ function Lesson02() {
         <div>
             <MyButton/>
             <MyButton/>
+            <MyButton/>
         </div>
   
       </div>
